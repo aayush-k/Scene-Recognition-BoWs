@@ -1,21 +1,10 @@
-Aayush Kumar
 
 <html>
-<head>
-<title>Recognition with Bag of Words</title>
-<link href='http://fonts.googleapis.com/css?family=Nunito:300|Crimson+Text|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" title="Default" href="styles/github.css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 
-<link rel="stylesheet" href="html/highlighting/styles/default.css">
-<script src="html/highlighting/highlight.pack.js"></script>
-
-</head>
 <body>
 <div id="header" >
 <div id="headersub">
-<h1>Aayush Kumar</h1>
-</div>
+
 </div>
 <div class="container">
 
